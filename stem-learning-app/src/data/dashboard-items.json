@@ -1,0 +1,50 @@
+{
+  "dashboardItems": [
+    {
+      "id": "scratch-programming",
+      "title": "Scratch Programming",
+      "description": "Visual programming with drag-and-drop blocks",
+      "icon": "puzzle",
+      "progress": 65,
+      "totalLessons": 20,
+      "completedLessons": 13,
+      "color": "from-orange-400 to-red-500",
+      "category": "Programming",
+      "difficulty": "Beginner",
+      "nextLesson": "Creating Animations"
+    },
+    {
+      "id": "python-playground",
+      "title": "Python Code Playground",
+      "description": "Interactive Python coding environment",
+      "icon": "terminal",
+      "progress": 40,
+      "totalLessons": 32,
+      "completedLessons": 12,
+      "color": "from-green-400 to-blue-500",
+      "category": "Programming",
+      "difficulty": "Intermediate",
+      "nextLesson": "Functions and Loops"
+    },
+    {
+      "id": "robotics",
+      "title": "Robotics",
+      "description": "Build and program virtual robots",
+      "icon": "cog",
+      "progress": 25,
+      "totalLessons": 18,
+      "completedLessons": 4,
+      "color": "from-purple-400 to-pink-500",
+      "category": "Engineering",
+      "difficulty": "Advanced",
+      "nextLesson": "Sensor Programming"
+    }
+  ],
+  "user": {
+    "name": "Alex",
+    "avatar": "/placeholder-avatar.jpg",
+    "totalProgress": 43,
+    "streak": 7,
+    "badges": ["First Steps", "Code Explorer", "Problem Solver"]
+  }
+}

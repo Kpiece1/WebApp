@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": "coding-math",
+      "title": "Coding Math",
+      "description": "Learn programming through mathematical concepts and problem-solving",
+      "icon": "calculator",
+      "featured": true,
+      "color": "from-blue-500 to-indigo-600",
+      "difficulty": "Beginner to Advanced",
+      "lessons": 24,
+      "estimatedTime": "3-5 hours"
+    },
+    {
+      "id": "robotics",
+      "title": "Robotics",
+      "description": "Build and program robots while learning engineering principles",
+      "icon": "robot",
+      "featured": false,
+      "color": "from-purple-500 to-pink-600",
+      "difficulty": "Intermediate",
+      "lessons": 18,
+      "estimatedTime": "4-6 hours"
+    },
+    {
+      "id": "python-playground",
+      "title": "Python Playground",
+      "description": "Interactive Python coding environment for creative projects",
+      "icon": "code",
+      "featured": false,
+      "color": "from-green-500 to-teal-600",
+      "difficulty": "Beginner",
+      "lessons": 32,
+      "estimatedTime": "2-4 hours"
+    }
+  ]
+}
